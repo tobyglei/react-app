@@ -6,4 +6,4 @@
 
 ## 部署
 
-详情看 [https://doc.21yunbox.com/#/deploy-react-app](https://doc.21yunbox.com/#/deploy-react-app)
+详情看 [https://www.21yunbox.com/docs/#/deploy-react-app](https://www.21yunbox.com/docs/#/deploy-react-app)
